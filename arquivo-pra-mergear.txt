@@ -1,0 +1,4 @@
+esse é um arquivo que eu estou testando a funcionalidade de merge
+muito legal esse tal de merge.
+lorem ipsum dolor
+sit amet consectur
