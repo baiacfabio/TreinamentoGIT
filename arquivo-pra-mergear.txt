@@ -1,6 +1,8 @@
+adicionando mais coisas aqui como pede no exercicio 2
 esse é um arquivo que eu estou testando a funcionalidade de merge
 muito legal esse tal de merge.
 salve o corinthians
 lorem ipsum dolor
 o campeao dos campeoes
 eternamente dentro dos nossos coracoes
+
